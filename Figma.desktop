@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Figma
+Exec=/local/share/Figma.AppImage
+Comment=Design, Web Developement, UI, UX
+Terminal=false
+PrefersNonDefaultGPU=false
+Type=Application
+Icon=./icons/figma.svg

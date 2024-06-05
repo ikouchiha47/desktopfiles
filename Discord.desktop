@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Discord
+Exec=flatpak run com.discordapp.Discord
+Comment=Messaging,Internet
+Terminal=false
+PrefersNonDefaultGPU=true
+Type=Application
+Icon=./icons/discord.svg

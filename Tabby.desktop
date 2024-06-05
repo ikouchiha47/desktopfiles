@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Tabby
+Exec=/home/darksied/.local/bin/Tabby.AppImage
+Comment=Terminal,Productivity,Programming
+Terminal=true
+Type=Application
+Icon=tabby
